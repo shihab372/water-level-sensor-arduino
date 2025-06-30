@@ -46,15 +46,17 @@ The Arduino reads analog values from the water level sensor and powers the senso
 
 ---
 
-
-
 ## 🎥 Demo Video
 
-[▶️ Watch the Video Demo on YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+▶️ [Click here to watch the demo video](https://github.com/shihab372/water-level-sensor-arduino/blob/main/water%20level%20detector%20arduino%20video.mp4)
+
+> _Note: GitHub does not support embedded video playback. You need to click the link to view the `.mp4` file._
+
+---
 
 ## 🖼️ Image
 
-[![Watch the video](images/setup.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+![Setup Image](https://github.com/shihab372/water-level-sensor-arduino/raw/main/initial%20setup.jpg)
 
 ---
 
@@ -74,5 +76,3 @@ The Arduino reads analog values from the water level sensor and powers the senso
 ID: 2022-1-60-372  
 Course: CSE406 - Embedded Systems  
 Semester: Summer 2025
-
-
